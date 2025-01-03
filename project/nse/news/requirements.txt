@@ -1,0 +1,3 @@
+pandas
+streamlit
+alpha_vantage
